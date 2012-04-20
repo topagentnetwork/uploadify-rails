@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "uploadify-rails"
   gem.require_paths = ["lib"]
   gem.version       = Uploadify::Rails::VERSION
+
+  gem.add_dependency "railties", ">= 3.2.0", "< 5.0"
 end
