@@ -4,8 +4,8 @@ require File.expand_path('../lib/uploadify/rails/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["John Hampton"]
   gem.email         = ["john@topagentnetwork.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Uploadify packaged for the rails asset pipeline.}
+  gem.summary       = %q{Uploadify packaged for the rails asset pipeline.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
