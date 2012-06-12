@@ -1,6 +1,6 @@
 module Uploadify
   module Rails
-    VERSION = "0.0.1"
-    UPLOADIFY_VERSION = "2.1.4"
+    VERSION = "0.1.0"
+    UPLOADIFY_VERSION = "3.1.1"
   end
 end
